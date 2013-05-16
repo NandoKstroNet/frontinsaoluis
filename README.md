@@ -1,4 +1,4 @@
-frontinsaoluis
+Front In São Luis
 ==============
 
-Repository of files about event Fron In São Lui.
+Repository of files about event Fron In São Luis.
